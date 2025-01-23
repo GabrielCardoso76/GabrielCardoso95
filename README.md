@@ -6,4 +6,9 @@ Tenho uma grande paixão por **tecnologia** e estou sempre em busca de aprender 
 
 Nas horas vagas, sou um grande fã de **futebol**, **academia**, **corrida** e adoro jogar **games online** com meus amigos. Acredito que um equilíbrio entre os estudos e momentos de lazer é essencial!
 
+## Links
+
+- **GitHub**: https://github.com/GabrielCardoso76
+- **LinkedIn**: [seu-link-linkedin](#)
+
 Vamos nos conectar!
